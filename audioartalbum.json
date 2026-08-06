@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "version_name": "1.0",
-  "download_url": "https://raw.githubusercontent.com/trickofficial2/App/main/audioartalbum.apk",
-  "release_notes": "A new version of Audio Converter Pro is available. You must update to continue using the application."
+  "versionCode": 2,
+  "versionName": "1.0",
+  "apkUrl": "https://raw.githubusercontent.com/trickofficial2/App/main/audioartalbum.apk",
+  "A new version of Audio Converter Pro is available. You must update to continue using the application."
 }
